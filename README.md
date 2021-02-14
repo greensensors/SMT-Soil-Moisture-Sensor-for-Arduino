@@ -1,7 +1,7 @@
 # SMT-Soil-Moisture-Sensor-for-Arduino
 Soil moisture and temperature sensor SMT-01
 
-SMT-01 is designed to measure soil moisture and temperature in monitoring and automatic irrigation systems.
+SMT-01 is designed to measure soil moisture and temperature for monitoring and automatic irrigation systems.
 SMT-01 has a waterproof housing. SMT-01 provides measurement of parameters in a wide temperature range and in soils of different composition with high stability. SMT-01 is compatible with various microcontrollers, and the shielded cable allows data transmission up to 100m.
 Main technical characteristics:
 Supply voltage: 							3.3 - 5.0 V.
