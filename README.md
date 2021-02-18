@@ -11,7 +11,8 @@
 - Measurement error: less than 					2.5%.
 - Sensor dimensions: 						40x9x9 mm.
 - Connecting cable length: 					up to 100 m.
-The sensor design is based on the dependence of the rate of dissipation of thermal energy on soil moisture (see Fig. 1).
+>
+>The sensor design is based on the dependence of the rate of dissipation of thermal energy on soil moisture (see Fig. 1).
 >Examples of electrical connection of the sensor and software for Arduino and ESP8266 microcontrollers are included.
 >
 >Additional information: greensensorso@gmail.com
