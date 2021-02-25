@@ -17,4 +17,6 @@
 >
 >Examples of electrical connection of the sensor and software for Arduino and ESP8266 microcontrollers are included.
 >
+[![](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/22794/)
+>
 >Additional information: greensensorso@gmail.com
