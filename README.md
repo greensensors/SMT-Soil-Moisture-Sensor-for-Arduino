@@ -21,6 +21,8 @@ and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Ardu
 
 Examples of electrical connection of the sensor for [ESP8266](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT_ESP8266_Circuit.png) and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino) are included.
 
+The [Practical guide](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-description-Part2.pdf) describes how to connect sensor SMT-01 to Arduino UNO board and measure Soil moisture and temperature is included.
+
 [![](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/22794/)
 >
 >Additional information: greensensorso@gmail.com
