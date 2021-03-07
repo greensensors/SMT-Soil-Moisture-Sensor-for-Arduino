@@ -16,11 +16,10 @@ SMT-01 is compatible with various microcontrollers, and the shielded cable allow
 
 The SMT-01 [Design](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-description-Part1.pdf) is based on the dependence of the rate of dissipation of thermal energy on soil moisture.
 
-Example of electrical connection of the sensor for [Arduino](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT_Arduino_Circuit.png) 
-and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-Arduino-example.ino).
+Examples of electrical connection of the sensor for [Arduino](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT_Arduino_Circuit.png) 
+and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-Arduino-example.ino) are included.
 
-Example of electrical connection of the sensor for [ESP8266](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino) and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino).
-
+Examples of electrical connection of the sensor for [ESP8266](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT_ESP8266_Circuit.png) and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino) are included.
 
 [![](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/22794/)
 >
