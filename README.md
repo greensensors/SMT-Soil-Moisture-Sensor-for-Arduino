@@ -14,10 +14,14 @@ SMT-01 is compatible with various microcontrollers, and the shielded cable allow
 - Sensor dimensions: 40x9x9 mm.
 - Connecting cable length: up to 30 m.
 
-The sensor design is based on the dependence of the rate of dissipation of thermal energy on soil moisture (see SMT-description-Part1.pdf).
->
->Examples of electrical connection of the sensor and software for Arduino and ESP8266 microcontrollers are included.
->
+The SMT-01 [Design](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-description-Part1.pdf) is based on the dependence of the rate of dissipation of thermal energy on soil moisture.
+
+Example of electrical connection of the sensor for [Arduino](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT_Arduino_Circuit.png) 
+and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-Arduino-example.ino).
+
+Example of electrical connection of the sensor for [ESP8266](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino) and [software](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino/blob/main/SMT-ESP8266-example.ino).
+
+
 [![](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/22794/)
 >
 >Additional information: greensensorso@gmail.com
